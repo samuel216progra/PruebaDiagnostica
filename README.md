@@ -1,0 +1,2 @@
+# PruebaDiagnostica
+Prueba de Ahorcado
